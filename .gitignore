@@ -106,3 +106,7 @@ logs/
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Environment variables and local secrets
+.env
+.env.local
