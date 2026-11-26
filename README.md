@@ -72,3 +72,16 @@ src/
     └── java/com/bootcamp/onlineschool/
         └── OnlineSchoolApplicationTests.java
 ```
+
+## Git and GitHub Foundations Lab
+
+This repository (Osama-Darouzi/SchoolOnline) includes practice work for learning the Git and GitHub workflow.
+
+### Skills Practiced
+
+- Creating and switching to a feature branch
+- Updating `.gitignore`
+- Editing Markdown documentation
+- Staging changes separately and committing each one
+- Pushing a branch to GitHub
+- Opening and merging a pull request
